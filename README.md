@@ -115,18 +115,18 @@
 #### Φωτογραφικό Υλικό
 <img src="images/pinakas.jpg" alt="Screenshot" width="500" height="400">
 2) Οι κουκουβάγιες σχεδιάστηκαν σε μακέτα απο χαρτόνι , εκτυπώθηκαν σε χαρτί και οι μαθητές τις κατασκεύασαν
-<img src="images/1" alt="Screenshot" width="500" height="400">
-<img src="images/2" alt="Screenshot" width="500" height="400">
-<img src="images/3" alt="Screenshot" width="500" height="400">
-<img src="images/4" alt="Screenshot" width="500" height="400">
+<img src="images/1.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/2.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/3.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/4.jpg" alt="Screenshot" width="500" height="400">
 
 3) Η τάξη χωρίστηκε σε 6 ομάδες και κάθε ομάδα κατασκεύασε τη δική της κουκουβάγια, δημιουργώντας ένα κουτί-κουκουβάγια σε μορφή μακέτας, πάνω στο οποίο κόλλησαν τις εκτυπωμένες ζωγραφιές.
-<img src="images/5" alt="Screenshot" width="500" height="400">
-<img src="images/6" alt="Screenshot" width="500" height="400">
-<img src="images/7" alt="Screenshot" width="500" height="400">
-<img src="images/8" alt="Screenshot" width="500" height="400">
-<img src="images/9" alt="Screenshot" width="500" height="400">
-<img src="images/10" alt="Screenshot" width="500" height="400">
+<img src="images/5.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/6.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/7.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/8.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/9.jpg" alt="Screenshot" width="500" height="400">
+<img src="images/10.jpg" alt="Screenshot" width="500" height="400">
 
 4) Πραγματοποιήθηκε ο προγραμματισμός των κουκουβαγιών στο εργαστήριο πληροφορικής, με τη χρήση του micro, ώστε να επιτευχθεί η επικοινωνία μεταξύ τους.
 
