@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="images/1.jpg" width="400" height="300">
-  <img src="images/2.jpg" width="400" height="300">
-</p>
-
-<p align="center">
-  <img src="images/3.jpg" width="400" height="300">
-  <img src="images/4.jpg" width="400" height="300">
-</p>
-
-
-
 # Οι Έξυπνες Κουκουβάγιες της Τάξης μας.
 
 <img src="images/afisa.jpg" alt="Screenshot" width="500" height="400">
@@ -140,29 +128,46 @@
 <img src="images/pinakas.jpg" alt="Screenshot" width="500" height="400">
 2) Οι κουκουβάγιες σχεδιάστηκαν σε μακέτα απο χαρτόνι , εκτυπώθηκαν σε χαρτί και οι μαθητές τις κατασκεύασαν
 <p align="center">
-  <img src="images/1.jpg" width="500" height="400"> <img src="images/2.jpg" width="500" height="400">
+  <img src="images/1.jpg" width="400" height="300">
+  <img src="images/2.jpg" width="400" height="300">
 </p>
 
 <p align="center">
-  <img src="images/3.jpg" width="500" height="400">  <img src="images/4.jpg" width="500" height="400">
+  <img src="images/3.jpg" width="400" height="300">
+  <img src="images/4.jpg" width="400" height="300">
+</p>
+3) Η τάξη χωρίστηκε σε 6 ομάδες και κάθε ομάδα κατασκεύασε τη δική της κουκουβάγια, δημιουργώντας ένα κουτί-κουκουβάγια σε μορφή μακέτας, πάνω στο οποίο κόλλησαν τις εκτυπωμένες ζωγραφιές.
+<p align="center">
+  <img src="images/5.jpg" width="400" height="300">
+  <img src="images/6.jpg" width="400" height="300">
 </p>
 
-3) Η τάξη χωρίστηκε σε 6 ομάδες και κάθε ομάδα κατασκεύασε τη δική της κουκουβάγια, δημιουργώντας ένα κουτί-κουκουβάγια σε μορφή μακέτας, πάνω στο οποίο κόλλησαν τις εκτυπωμένες ζωγραφιές.
-<img src="images/5.jpg" alt="Screenshot" width="500" height="400">
-<img src="images/6.jpg" alt="Screenshot" width="500" height="400">
-<img src="images/7.jpg" alt="Screenshot" width="500" height="400">
-<img src="images/8.jpg" alt="Screenshot" width="500" height="400">
-<img src="images/9.jpg" alt="Screenshot" width="500" height="400">
-<img src="images/10.jpg" alt="Screenshot" width="500" height="400">
+<p align="center">
+  <img src="images/7.jpg" width="400" height="300">
+  <img src="images/8.jpg" width="400" height="300">
+</p>
+
+<p align="center">
+  <img src="images/9.jpg" width="400" height="300">
+  <img src="images/10.jpg" width="400" height="300">
+</p>
 
 4) Πραγματοποιήθηκε ο προγραμματισμός των κουκουβαγιών στο εργαστήριο πληροφορικής, με τη χρήση του Micro:bit, ώστε να επιτευχθεί η επικοινωνία μεταξύ τους.
-   <img src="images/20.jpg" alt="Screenshot" width="500" height="400">
-   <img src="images/21.jpg" alt="Screenshot" width="500" height="400">
-   <img src="images/22.jpg" alt="Screenshot" width="500" height="400">
-   <img src="images/23.jpg" alt="Screenshot" width="500" height="400">
-   <img src="images/24.jpg" alt="Screenshot" width="500" height="400">
-   <img src="images/26.jpg" alt="Screenshot" width="500" height="400">
+ <p align="center">
+  <img src="images/20.jpg" width="400" height="300">
+  <img src="images/21.jpg" width="400" height="300">
+</p>
 
+<p align="center">
+  <img src="images/22.jpg" width="400" height="300">
+  <img src="images/23.jpg" width="400" height="300">
+</p>
+
+<p align="center">
+  <img src="images/24.jpg" width="400" height="300">
+  <img src="images/25.jpg" width="400" height="300">
+</p>
+  <img src="images/25.jpg" width="400" height="300">
 
 ## Διαγράμματα Ροής και Προγραμματισμός σε MakeCode (Blocks)
 
