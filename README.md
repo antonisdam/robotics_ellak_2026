@@ -128,13 +128,11 @@
 <img src="images/pinakas.jpg" alt="Screenshot" width="500" height="400">
 2) Οι κουκουβάγιες σχεδιάστηκαν σε μακέτα απο χαρτόνι , εκτυπώθηκαν σε χαρτί και οι μαθητές τις κατασκεύασαν
 <p align="center">
-  <img src="images/1.jpg" width="500" height="400">
-  <img src="images/2.jpg" width="500" height="400">
+  <img src="images/1.jpg" width="500" height="400"> <img src="images/2.jpg" width="500" height="400">
 </p>
 
 <p align="center">
-  <img src="images/3.jpg" width="500" height="400">
-  <img src="images/4.jpg" width="500" height="400">
+  <img src="images/3.jpg" width="500" height="400">  <img src="images/4.jpg" width="500" height="400">
 </p>
 
 3) Η τάξη χωρίστηκε σε 6 ομάδες και κάθε ομάδα κατασκεύασε τη δική της κουκουβάγια, δημιουργώντας ένα κουτί-κουκουβάγια σε μορφή μακέτας, πάνω στο οποίο κόλλησαν τις εκτυπωμένες ζωγραφιές.
