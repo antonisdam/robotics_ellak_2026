@@ -19,7 +19,7 @@
 ## Παρουσίαση του έργου απο τους Μαθητές
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Md59bIz-bwM">
-    <img src="https://img.youtube.com/vi/Md59bIz-bwM/0.jpg" width="600">
+    <img src="https://img.youtube.com/vi/Md59bIz-bwM/0.jpg" width="500">
   </a>
 </p>
 
