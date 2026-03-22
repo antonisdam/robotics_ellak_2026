@@ -1,3 +1,15 @@
+<p>
+  <img src="images/1.jpg" width="500">
+  <img src="images/2.jpg" width="500">
+</p>
+
+<p>
+  <img src="images/3.jpg" width="400">
+  <img src="images/4.jpg" width="400">
+</p>
+
+
+
 # Οι Έξυπνες Κουκουβάγιες της Τάξης μας.
 
 <img src="images/afisa.jpg" alt="Screenshot" width="500" height="400">
