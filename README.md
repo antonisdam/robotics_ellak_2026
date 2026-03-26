@@ -22,8 +22,8 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Md59bIz-bwM">
-    <img src="https://img.youtube.com/vi/Md59bIz-bwM/0.jpg" width="500">
+  <a href="https://youtu.be/7OA5WhnjrS0">
+    <img src="https://img.youtube.com/vi/7OA5WhnjrS0/0.jpg" width="500">
   </a>
 </p>
 
