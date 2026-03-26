@@ -22,8 +22,8 @@
 
 
 <p align="center">
-  <a href="https://youtu.be/7OA5WhnjrS0">
-    <img src="https://img.youtube.com/vi/7OA5WhnjrS0/" width="500">
+  <a href="https://www.youtube.com/watch?v=7OA5WhnjrS0&t=0s">
+    <img src="https://img.youtube.com/vi/7OA5WhnjrS0/0.jpg" width="500" alt="Παρουσίαση του Project">
   </a>
 </p>
 
