@@ -20,10 +20,10 @@
 ## Παρουσίαση του έργου απο τους Μαθητές στο Youtube
 Στο παρακάτω σύνδεσμο μπορείτε να παρακολουθήσετε την παρουσίαση του έργου μας στο YouTube, όπου αποτυπώνεται η πορεία υλοποίησης του project, οι δραστηριότητες των μαθητών, καθώς και το τελικό αποτέλεσμα της κατασκευής και του προγραμματισμού των «Έξυπνων Κουκουβαγιών». Το οπτικοακουστικό υλικό αναδεικνύει τη συνεργασία, τη δημιουργικότητα και τον ενθουσιασμό των μαθητών καθ’ όλη τη διάρκεια της δράσης.
 
-
+ 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=7OA5WhnjrS0&t=0s">
-    <img src="https://img.youtube.com/vi/7OA5WhnjrS0/0.jpg" width="500" alt="Παρουσίαση του Project">
+  <a href="https://www.youtube.com/watch?v=tCNI0et7nQA=0s">
+    <img src="https://img.youtube.com/vi/tCNI0et7nQA/0.jpg" width="500" alt="Παρουσίαση του Project">
   </a>
 </p>
 <p align="center">
