@@ -23,8 +23,8 @@
 
  
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=tCNI0et7nQA=0s">
-    <img src="https://img.youtube.com/vi/tCNI0et7nQA/0.jpg" width="500" alt="Παρουσίαση του Project">
+  <a href="https://www.youtube.com/watch?v=Pf0lbxggzwE=0s">
+    <img src="https://img.youtube.com/vi/Pf0lbxggzwE/0.jpg" width="500" alt="Παρουσίαση του Project">
   </a>
 </p>
 <p align="center">
