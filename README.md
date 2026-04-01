@@ -1,6 +1,6 @@
-## Δημοτικό Σχολείο Βουκολιών
+# Δημοτικό Σχολείο Βουκολιών
 
-# Οι Έξυπνες Κουκουβάγιες της Τάξης μας.
+## Οι Έξυπνες Κουκουβάγιες της Τάξης μας.
 
 <img src="images/afisa.jpg" alt="Screenshot" width="500" height="400">
 <img src="images/27.jpg" alt="Screenshot" width="500" height="400">
